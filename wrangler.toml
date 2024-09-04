@@ -81,6 +81,8 @@ pages_build_output_dir = ".vercel/output/static"
 
 # [env.production.vars]
 # API_KEY = "abc123"
+# NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = pk_test_c3R1bm5pbmctd2FsbGFieS0xMi5jbGVyay5hY2NvdW50cy5kZXYk
+# CLERK_SECRET_KEY=sk_test_nQnkOycgoob16fI4wGXC5R6z4QPSEzZ6oTxHInbicF
 
 # [[env.production.kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
